@@ -10,4 +10,7 @@ The other owner Angelo22, since he's unable to play VC:MP again, since yeah, lik
 
 If you download this piece of sh!t server, I warn you that it is going to crash every 20 minutes. It's here for you just to take a look.
 
-I want to thank the VC:MP community for properly introducing me to programming 5 years ago.
+I want to thank the VC:MP community for properly introducing me to programming 5 years 
+ago.
+
+Fun fact: people that played this server exposed themselfes to major security risks because passwords weren't hashed XDDD
