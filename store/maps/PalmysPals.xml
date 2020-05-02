@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="ASCII" ?>
+        <itemlist>
+                <item model="445" name="veg_palm04">
+                        <position x="1408.06" y="316.942" z="8.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1421.3" y="378.35" z="8.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1422.93" y="435.917" z="13.5003" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1530.98" y="331.138" z="8.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="3204" name="od_lhland">
+                        <position x="1322.47" y="395.92" z="7.0212" />
+                        <rotation format="axisangle" x="1.37229e-06" y="1.37229e-06" z="-0.999391" angle="-0.0348995" />
+                </item>
+                <item model="4276" name="nbeachb1">
+                        <position x="1323.58" y="184.858" z="2.9" />
+                        <rotation format="axisangle" x="0.00872752" y="0.00872752" z="-0.999924" angle="7.61755e-05" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1247.16" y="235.42" z="11.618" />
+                        <rotation format="axisangle" x="-2.28668e-07" y="-2.28668e-07" z="0.788009" angle="-0.615663" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1280.67" y="261.714" z="8.318" />
+                        <rotation format="axisangle" x="-6.10883e-07" y="-6.10883e-07" z="0.898793" angle="-0.438373" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1287.25" y="269.179" z="12.318" />
+                        <rotation format="axisangle" x="0" y="0" z="-0.707106" angle="0.707107" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1287.84" y="257.645" z="10.318" />
+                        <rotation format="axisangle" x="0" y="0" z="-0.707106" angle="0.707107" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1488.78" y="267.404" z="18.318" />
+                        <rotation format="axisangle" x="0.00129167" y="0.00129167" z="0.669155" angle="-0.743121" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1379.81" y="284.007" z="18.118" />
+                        <rotation format="axisangle" x="-2.61137e-07" y="-2.61137e-07" z="0.798634" angle="-0.601817" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1437.96" y="286.781" z="17.218" />
+                        <rotation format="axisangle" x="-0.0114048" y="-0.0114048" z="0.382584" angle="0.92378" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1211.68" y="518.906" z="4.318" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207911517778" angle="0.978147637515" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1235.63" y="466.337" z="-1.682" />
+                        <rotation format="axisangle" x="1.41612e-06" y="1.41612e-06" z="-0.997564" angle="-0.0697564" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1299.04" y="451.488" z="-8.682" />
+                        <rotation format="axisangle" x="-7.78114e-07" y="-7.78114e-07" z="0.936671" angle="-0.35021" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1294.43" y="452.135" z="-10.682" />
+                        <rotation format="axisangle" x="0" y="0.00133796" z="0" angle="0.999999" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1274.99" y="535.176" z="-10.682" />
+                        <rotation format="axisangle" x="1.75755e-06" y="1.75755e-06" z="-0.414694" angle="-0.909961" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1342" y="525.712" z="-13.682" />
+                        <rotation format="axisangle" x="-6.87688e-07" y="-6.87688e-07" z="0.917059" angle="-0.398751" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1353.17" y="450.258" z="-8.682" />
+                        <rotation format="axisangle" x="1.16807e-06" y="1.16807e-06" z="0.113202" angle="-0.993572" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1388.21" y="525.755" z="-0.682" />
+                        <rotation format="axisangle" x="-0.0123275" y="-0.0123275" z="0.669023" angle="0.743038" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1311.63" y="449.263" z="12.318" />
+                        <rotation format="axisangle" x="-0.0156516" y="-0.0156516" z="0.894387" angle="-0.446746" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1487.4" y="205.114" z="12.318" />
+                        <rotation format="axisangle" x="0.00706192" y="0.00706192" z="0.55938" angle="-0.828851" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1474.87" y="128.624" z="7.318" />
+                        <rotation format="axisangle" x="0.00322152" y="0.00322152" z="0.608819" angle="-0.793296" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1289.76" y="501.045" z="17.8084" />
+                        <rotation format="axisangle" x="-0.001611" y="-0.001611" z="0.793338" angle="-0.608777" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1259.69" y="481.336" z="17.8084" />
+                        <rotation format="axisangle" x="1.40532e-06" y="1.40532e-06" z="-0.998135" angle="-0.0610485" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1264.16" y="455.855" z="6.318" />
+                        <rotation format="axisangle" x="1.72075e-06" y="1.72075e-06" z="-0.366502" angle="-0.930417" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1273.83" y="527.501" z="12.318" />
+                        <rotation format="axisangle" x="-0.0152428" y="-0.0152428" z="0.890473" angle="-0.454525" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1326.62" y="536.175" z="12.318" />
+                        <rotation format="axisangle" x="-0.0582743" y="-0.0582743" z="0.435826" angle="0.89625" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1362.89" y="455.249" z="12.318" />
+                        <rotation format="axisangle" x="0.0484208" y="0.0484208" z="-0.557503" angle="-0.827346" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1210.55" y="449.773" z="4.318" />
+                        <rotation format="axisangle" x="0.0406518" y="0.0406518" z="-0.180817" angle="-0.981835" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1223.76" y="487.952" z="6.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1238.22" y="482.293" z="6.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1341.13" y="481.429" z="6.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="445" name="veg_palm04">
+                        <position x="1316.55" y="508.335" z="8.50031" />
+                        <rotation format="axisangle" x="0" y="0" z="0.207912" angle="0.978148" />
+                </item>
+                <item model="3097" name="od_walkway3">
+                        <position x="1443.65" y="475.161" z="13.5202" />
+                        <rotation format="axisangle" x="0" y="0" z="0.104531" angle="-0.994522" />
+                </item>
+                <item model="3064" name="washelipad">
+                        <position x="1495.17" y="479.463" z="14.8756" />
+                        <rotation format="axisangle" x="-0.000753471" y="-0.000753471" z="0.748948" angle="-0.662628" />
+                </item>
+                <item model="3096" name="od_walkway2">
+                        <position x="1488.01" y="383.809" z="5.9677" />
+                        <rotation format="axisangle" x="-0.00139719" y="-0.00139719" z="0.782595" angle="-0.622528" />
+                </item>
+                <item model="2804" name="wshbuildws05">
+                        <position x="1382.58" y="373.506" z="20.6277" />
+                        <rotation format="axisangle" x="0" y="0" z="0.62932" angle="0.777146" />
+                </item>
+                <item model="672" name="dk_waretank">
+                        <position x="1379.62" y="372.35" z="30.1" />
+                        <rotation format="axisangle" x="-0.00665326" y="0.00568217" z="0.762371" angle="-0.651129" />
+                </item>
+                <item model="4749" name="cl_bar_temp1">
+                        <position x="1382.5" y="380.817" z="27.8" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0958483" angle="-0.995396" />
+                </item>
+                <item model="4748" name="cl_coolers">
+                        <position x="1382.82" y="382.168" z="28.4" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0958483" angle="-0.995396" />
+                </item>
+                <item model="4751" name="cl_yachtmdl">
+                        <position x="1392.38" y="376.643" z="28.3" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="4714" name="stripinterfloor">
+                        <position x="1384.53" y="370.99" z="29" />
+                        <rotation format="axisangle" x="0" y="0" z="0.173648" angle="0.984808" />
+                </item>
+                <item model="2525" name="man_sdr_seating">
+                        <position x="1383.41" y="368.966" z="27.9" />
+                        <rotation format="axisangle" x="1.43738e-06" y="1.43738e-06" z="-0.996195" angle="-0.0871557" />
+                </item>
+                <item model="2526" name="man_sdr_tvstf">
+                        <position x="1384.91" y="382.4" z="28.6" />
+                        <rotation format="axisangle" x="-0.0123143811826" y="-0.0123143811826" z="0.655947122599" angle="0.754605913299" />
+                </item>
+                <item model="4409" name="ml_tartable">
+                        <position x="1360.77" y="378.647" z="27.6" />
+                        <rotation format="axisangle" x="0" y="0" z="0.325568" angle="0.945519" />
+                </item>
+                <item model="470" name="kb_canopy_test">
+                        <position x="1360.88" y="378.585" z="28.4" />
+                        <rotation format="axisangle" x="0" y="0" z="0.258821" angle="-0.965925" />
+                </item>
+                <item model="470" name="kb_canopy_test">
+                        <position x="1271.28" y="380.486" z="13.5" />
+                        <rotation format="axisangle" x="0" y="0.173648" z="0" angle="0.984808" />
+                </item>
+                <item model="470" name="kb_canopy_test">
+                        <position x="1271.09" y="369.728" z="13.5" />
+                        <rotation format="axisangle" x="0" y="0.173648" z="0" angle="0.984808" />
+                </item>
+                <item model="470" name="kb_canopy_test">
+                        <position x="1257.09" y="364.914" z="10.7" />
+                        <rotation format="axisangle" x="0" y="0.173648" z="0" angle="0.984808" />
+                </item>
+                <item model="448" name="veg_palwee01">
+                        <position x="1432.07" y="445.134" z="19.4339" />
+                        <rotation format="axisangle" x="0" y="0" z="0.66913" angle="0.743145" />
+                </item>
+                <item model="448" name="veg_palwee01">
+                        <position x="1344.71" y="387.703" z="17.4339" />
+                        <rotation format="axisangle" x="-0.059159" y="0.0369668" z="-0.52863" angle="0.845981" />
+                </item>
+                <item model="448" name="veg_palwee01">
+                        <position x="1355.64" y="326.566" z="19.4339" />
+                        <rotation format="axisangle" x="0" y="0" z="0.5225" angle="-0.852639" />
+                </item>
+                <item model="448" name="veg_palwee01">
+                        <position x="1451.07" y="322.636" z="8.43391" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="474" name="veg_palmbig14">
+                        <position x="1352.1" y="380.095" z="23.1132" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="474" name="veg_palmbig14">
+                        <position x="1335.26" y="345.332" z="19.1132" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="474" name="veg_palmbig14">
+                        <position x="1415.67" y="341.886" z="14.1132" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1346.07" y="385.832" z="30.4624" />
+                        <rotation format="axisangle" x="-1.2186e-06" y="-1.2186e-06" z="0.996917" angle="-0.0784617" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1336.7" y="383.957" z="26.4624" />
+                        <rotation format="axisangle" x="-1.2061e-06" y="-1.2061e-06" z="0.996194" angle="-0.0871583" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1337.03" y="339.804" z="28.4624" />
+                        <rotation format="axisangle" x="-1.2061e-06" y="-1.2061e-06" z="0.996194" angle="-0.0871583" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1384.23" y="426.761" z="24.4624" />
+                        <rotation format="axisangle" x="-1.2186e-06" y="-1.2186e-06" z="0.996917" angle="-0.0784617" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1420.97" y="405.643" z="18.4624" />
+                        <rotation format="axisangle" x="-1.2186e-06" y="-1.2186e-06" z="0.996917" angle="-0.0784617" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1349.59" y="412.919" z="26.4624" />
+                        <rotation format="axisangle" x="-1.2186e-06" y="-1.2186e-06" z="0.996917" angle="-0.0784617" />
+                </item>
+                <item model="2540" name="mn_treesis_int">
+                        <position x="1342.17" y="485.965" z="15.4651" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="2540" name="mn_treesis_int">
+                        <position x="1326.07" y="509.479" z="15.4651" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="2540" name="mn_treesis_int">
+                        <position x="1475.55" y="322.614" z="15.4651" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0261769" angle="0.999657" />
+                </item>
+                <item model="2536" name="drive_flowers06">
+                        <position x="1383.18" y="386.334" z="22.5" />
+                        <rotation format="axisangle" x="-0.0435117" y="-0.00304131" z="-0.996615" angle="-0.0696901" />
+                </item>
+                <item model="526" name="beachball">
+                        <position x="1307.32" y="376.315" z="20.7" />
+                        <rotation format="axisangle" x="0.469474" y="0" z="0" angle="-0.882947" />
+                </item>
+                <item model="526" name="beachball">
+                        <position x="1351.99" y="374.344" z="26.7" />
+                        <rotation format="axisangle" x="0.492425" y="0" z="0" angle="-0.870355" />
+                </item>
+                <item model="526" name="beachball">
+                        <position x="1306.94" y="374.798" z="19.7" />
+                        <rotation format="axisangle" x="0.484812" y="0" z="0" angle="-0.874619" />
+                </item>
+                <item model="526" name="beachball">
+                        <position x="1351.79" y="375.756" z="26.7" />
+                        <rotation format="axisangle" x="0.50754" y="0" z="0" angle="-0.861628" />
+                </item>
+                <item model="4710" name="striplights">
+                        <position x="1381.96" y="374.303" z="33.4882" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="1827" name="bb_pooltable1_01">
+                        <position x="1381.99" y="378" z="27" />
+                        <rotation format="axisangle" x="1.37229119714e-06" y="1.37229119714e-06" z="-0.999390825001" angle="-0.0348995544475" />
+                </item>
+                <item model="2541" name="man_safenew">
+                        <position x="1391.27" y="382.459" z="29.6" />
+                        <rotation format="axisangle" x="0" y="0" z="0.642789" angle="-0.766043" />
+                </item>
+                <item model="2474" name="man_monitor_base">
+                        <position x="1393.47" y="367.222" z="27.2283" />
+                        <rotation format="axisangle" x="-0.00607775" y="-0.00607775" z="0.963577" angle="-0.267294" />
+                </item>
+                <item model="576" name="od_groyne01">
+                        <position x="1539.11" y="457.198" z="6.24255" />
+                        <rotation format="axisangle" x="0" y="0" z="0.707106" angle="0.707107" />
+                </item>
+                <item model="469" name="veg_palmkb13">
+                        <position x="1356.82" y="362.854" z="24.2768" />
+                        <rotation format="axisangle" x="0" y="0" z="0.544641" angle="-0.838669" />
+                </item>
+                <item model="469" name="veg_palmkb13">
+                        <position x="1331.05" y="372.429" z="21.2768" />
+                        <rotation format="axisangle" x="0" y="0" z="0.551939" angle="-0.833885" />
+                </item>
+                <item model="467" name="new_bushtest">
+                        <position x="1376.88" y="342.032" z="26.4624" />
+                        <rotation format="axisangle" x="-1.19352e-06" y="-1.19352e-06" z="0.995396" angle="-0.0958483" />
+                </item>
+                <item model="1723" name="arcadesjm01">
+                        <position x="1373.59" y="361.538" z="28" />
+                        <rotation format="axisangle" x="1.41612e-06" y="1.41612e-06" z="-0.997564" angle="-0.0697564" />
+                </item>
+                <item model="1729" name="arcadesjm03">
+                        <position x="1374.44" y="361.758" z="28" />
+                        <rotation format="axisangle" x="1.41612e-06" y="1.41612e-06" z="-0.997564" angle="-0.0697564" />
+                </item>
+                <item model="2569" name="Pizza_mess">
+                        <position x="1369.41" y="361.763" z="27.5" />
+                        <rotation format="axisangle" x="1.46846e-06" y="1.46846e-06" z="-0.993572" angle="-0.113203" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1152.64" y="270.787" z="-9.682" />
+                        <rotation format="axisangle" x="-2.28668e-07" y="-2.28668e-07" z="0.788009" angle="-0.615663" />
+                </item>
+                <item model="2577" name="Poloroids">
+                        <position x="1374.27" y="384.6" z="29.4864" />
+                        <rotation format="axisangle" x="0.0701361" y="0.0404834" z="-0.649292" angle="-0.756215" />
+                </item>
+                <item model="2565" name="Heli_box">
+                        <position x="1392.5" y="380.799" z="29.8" />
+                        <rotation format="axisangle" x="-0.0821561" y="0.0493639" z="0.85322" angle="-0.512669" />
+                </item>
+                <item model="2568" name="Trophies">
+                        <position x="1381.87" y="379.447" z="28.7" />
+                        <rotation format="axisangle" x="0" y="0" z="0.66913" angle="0.743145" />
+                </item>
+                <item model="4597" name="hot_mags1">
+                        <position x="1379.6" y="376.237" z="28.32" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="4636" name="mask">
+                        <position x="1374.56" y="371.044" z="28.8" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="4633" name="pornposters">
+                        <position x="1386.05" y="378.773" z="30.2864" />
+                        <rotation format="axisangle" x="0.00758538319544" y="0.028757902518" z="-0.559370533171" angle="-0.828384000102" />
+                </item>
+                <item model="4638" name="boomshine">
+                        <position x="1390.4" y="382.467" z="31.3" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="577" name="wglasssmash">
+                        <position x="1364.44" y="371.527" z="28.7119" />
+                        <rotation format="axisangle" x="5.06835e-08" y="6.04023e-08" z="0.642787" angle="0.766045" />
+                </item>
+                <item model="577" name="wglasssmash">
+                        <position x="1365.19" y="367.253" z="28.7119" />
+                        <rotation format="axisangle" x="5.06835e-08" y="6.04023e-08" z="0.642787" angle="0.766045" />
+                </item>
+                <item model="577" name="wglasssmash">
+                        <position x="1365.52" y="365.319" z="28.7119" />
+                        <rotation format="axisangle" x="5.06835e-08" y="6.04023e-08" z="0.642787" angle="0.766045" />
+                </item>
+                <item model="2941" name="pierentrance1">
+                        <position x="1425.35" y="473.528" z="12.781" />
+                        <rotation format="axisangle" x="1.33832e-06" y="1.33832e-06" z="-0.999962" angle="-0.00872653" />
+                </item>
+                <item model="2941" name="pierentrance1">
+                        <position x="1456.55" y="399.886" z="5.781" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="2586" name="yt_main_body2">
+                        <position x="1500.38" y="391.293" z="8.9401" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0697591" angle="-0.997564" />
+                </item>
+                <item model="2590" name="yt_main_body">
+                        <position x="1500.46" y="391.345" z="8.9401" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0697590620447" angle="-0.997563869265" />
+                </item>
+                <item model="2587" name="yt_gangplnk_tmp">
+                        <position x="1501.39" y="390.454" z="8.94922" />
+                        <rotation format="axisangle" x="-0.00869567313949" y="-0.00341420758026" z="0.00875925613878" angle="-0.999917998581" />
+                </item>
+                <item model="2593" name="big_poly_tings_b">
+                        <position x="1500.39" y="392.056" z="8.9134" />
+                        <rotation format="axisangle" x="0" y="0" z="0.0697590620447" angle="-0.997563869265" />
+                </item>
+                <item model="340" name="bollardlight">
+                        <position x="1363.63629763" y="354.522973516" z="28.339872551" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="340" name="bollardlight">
+                        <position x="1358.03181145" y="383.796966054" z="28.339872551" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="340" name="bollardlight">
+                        <position x="1407.24587252" y="363.386841275" z="28.339872551" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="340" name="bollardlight">
+                        <position x="1400.87744143" y="392.763458707" z="28.339872551" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="2290" name="ci_shipset">
+                        <position x="1400.73" y="197.723" z="20.8944" />
+                        <rotation format="axisangle" x="0.107800247325" y="-0.0944301707732" z="-0.925322068184" angle="-0.351057145856" />
+                </item>
+                <item model="3100" name="od_lightext">
+                        <position x="1225.17" y="497.54" z="61.5713" />
+                        <rotation format="axisangle" x="0.000990510477137" y="-0.00334779556543" z="0.95881320572" angle="-0.284015928585" />
+                </item>
+                <item model="3248" name="od_lightint">
+                        <position x="1224.97" y="497.64" z="62.3713" />
+                        <rotation format="axisangle" x="-8.22543052141e-07" y="-8.22543052141e-07" z="0.945517802863" angle="-0.325570398635" />
+                </item>
+                <item model="766" name="boat_kb1">
+                        <position x="1240.59" y="379.409" z="6.34387" />
+                        <rotation format="axisangle" x="-0.0521562698897" y="-0.084534528479" z="0.28230976671" angle="-0.954167088421" />
+                </item>
+                <item model="766" name="boat_kb1">
+                        <position x="1228.9" y="282.228" z="8.64387" />
+                        <rotation format="axisangle" x="-0.0628639965638" y="0.0552275981717" z="0.657688483874" angle="-0.748628004096" />
+                </item>
+                <item model="4634" name="moneybag">
+                        <position x="1387.63" y="371.627" z="28.886" />
+                        <rotation format="axisangle" x="0" y="0" z="0.559192487929" angle="0.829037852841" />
+                </item>
+                <item model="2534" name="man_sdr_rug">
+                        <position x="1386.3" y="367.492" z="27.0606" />
+                        <rotation format="axisangle" x="0.000136941271348" y="-0.00173994627705" z="0.0784615554983" angle="-0.996915612348" />
+                </item>
+                <item model="4637" name="coke_voodoo">
+                        <position x="1384.28" y="384.986" z="29.39" />
+                        <rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+                </item>
+                <item model="2558" name="mans_merge07">
+                        <position x="1364.63" y="369.113" z="32.0186" />
+                        <rotation format="axisangle" x="1.86923129848e-06" y="1.86923129848e-06" z="-0.642788174342" angle="-0.766043969312" />
+                </item>
+                <item model="2543" name="man_safenewdr">
+                        <position x="1390.17" y="382.672" z="29.6" />
+                        <rotation format="axisangle" x="0" y="0" z="0.325570398634" angle="-0.945517802864" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1175.11" y="228.143" z="-16.382" />
+                        <rotation format="axisangle" x="1.83189364996e-06" y="1.83189364996e-06" z="-0.843391703242" angle="-0.537299204258" />
+                </item>
+                <item model="374" name="rockpatch03">
+                        <position x="1532.61" y="276.689" z="17.718" />
+                        <rotation format="axisangle" x="0.00984163254062" y="0.00984163254062" z="0.366675213081" angle="-0.930244899287" />
+                </item>
+        </itemlist>

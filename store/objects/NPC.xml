@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectlist>
+	<object id="100">
+		<flags value="0"/>
+		<texture path="npc.txd"/>
+		<collision type="autogenerate"/>
+		<model path="npc.dff" distance="299"/>
+	</object>
+	<object id="101">
+		<flags value="0"/>
+		<texture path="pomohaci.txd"/>
+		<collision type="autogenerate"/>
+		<model path="pomohaci.dff" distance="299"/>
+	</object>
+	<object id ="102">
+		<flags value ="0"/>
+		<texture path="tigan.txd"/>
+		<collision type="autogenerate"/>
+		<model path="tigan.dff" distance="299"/>
+	</object>
+	<object id ="103">
+		<flags value ="0"/>
+		<texture path="zombie.txd"/>
+		<collision type="autogenerate"/>
+		<model path="tigan.dff" distance="299"/>
+	</object>
+	<object id="104">
+		<flags value="0"/>
+		<texture path="dinca.txd"/>
+		<collision type="autogenerate"/>
+		<model path="dinca.dff" distance="299"/>
+	</object>
+	<object id="105">
+		<flags value="0"/>
+		<texture path="dragnea.txd"/>
+		<collision type="autogenerate"/>
+		<model path="dragnea.dff" distance="299"/>
+	</object>
+</objectlist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ASCII"?>
+<itemlist> 
+	<!-- INTERIOARE -->
+
+     <item model="1835" name="interior1">
+          <position x="-1000" y="0" z="-90"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="2527" name="interior2">
+          <position x="-1030" y="0" z="-90"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>  
+     <item model="720" name="interior3">
+          <position x="-1050" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>   
+     <item model="4590" name="interior4">
+          <position x="-1090" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>    
+     <item model="4620" name="interior5">
+          <position x="-1103.077" y="-11.93" z="-82.55"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>     
+     <item model="2954" name="interior6">
+          <position x="-1150" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="6434" name="interior7">
+          <position x="-1170" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>  
+     <item model="6222" name="interior8">
+          <position x="-1200" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+	 <item model="6224" name="interior9">
+          <position x="-1230" y="0" z="-80"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+
+</itemlist> 

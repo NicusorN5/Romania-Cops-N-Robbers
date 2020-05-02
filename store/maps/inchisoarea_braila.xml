@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ASCII"?>
+<itemlist> 
+	<!-- 
+	Mingi
+	-->
+     <item model="526" name="minge_test">
+          <position x="392.006" y="-506.738" z="9.09561"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+	 <item model="526" name="minge_1">
+          <position x="558.42" y="1427.3" z="9.53914"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 <item model="526" name="minge_2">
+          <position x="552.016" y="1404.71" z="10.2757"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 <item model="526" name="minge_3">
+          <position x="553.016" y="1404.71" z="10.2757"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 <item model="526" name="minge_4">
+          <position x="554.016" y="1404.71" z="10.2757"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 <item model="526" name="minge_5">
+          <position x="555.016" y="1404.71" z="10.2757"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+		<!-- 
+		Pamant
+		-->
+	<item model="2087" name="pamant1">
+          <position x="640.04" y="1395.02" z="10"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+	 <item model="2087" name="pamant2">
+          <position x="605.292" y="1453.29" z="10"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 <item model="2087" name="pamant3">
+          <position x="520.249" y="1432.51" z="9.37447"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	 	<!-- 
+		Cutii
+		-->
+	<item model="345" name="cutie1">
+          <position x="533.373" y="1404.88" z="10.2"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>	
+	 <item model="345" name="cutie2">
+          <position x="533.373" y="1404.88" z="10.8"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>	
+	 <item model="345" name="cutie3">
+          <position x="533.373" y="1404.88" z="11.4"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>
+	<item model="345" name="cutie4">
+          <position x="536.373" y="1404.88" z="10.2"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>	
+	 <item model="345" name="cutie5">
+          <position x="536.373" y="1404.88" z="10.8"/> 
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item>	 
+</itemlist> 

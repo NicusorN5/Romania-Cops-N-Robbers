@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ASCII" ?>
+<itemlist>
+   <item model="6000" name="akina01">
+      <position x="797.989" y="-899.052" z="99.527" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6001" name="akina02">
+      <position x="836.913" y="-1089.231" z="118.779" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6002" name="akina03">
+      <position x="851.047" y="-1403.575" z="119.664" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6003" name="akina04">
+      <position x="627.768" y="-877.659" z="76.778" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6004" name="akina05">
+      <position x="643.923" y="-1116.631" z="118.48" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6005" name="akina06">
+      <position x="645.643" y="-1425.893" z="92.86" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6006" name="akina07">
+      <position x="462.916" y="-881.026" z="41.399" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6007" name="akina08">
+      <position x="519.799" y="-1116.273" z="76.44" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6008" name="akina09">
+      <position x="390.964" y="-1120.047" z="60.804" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6009" name="akina10">
+      <position x="524.366" y="-1366.789" z="84.883" />
+      <rotation format="axisangle" x="7.50663908266e-06" y="7.50664904244e-06" z="-0.707106312054" angle="-0.707107250239" />
+   </item>
+   <item model="6010" name="akina11">
+      <position x="393.184" y="-1375.16" z="67.559" />
+      <rotation format="axisangle" x="8.04703153408e-06" y="8.04704221085e-06" z="-0.707106312048" angle="-0.707107250233" />
+   </item>
+   <item model="6011" name="lodakina01">
+      <position x="797.989" y="-899.052" z="99.527" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6012" name="lodakina02">
+      <position x="836.913" y="-1089.23" z="118.779" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6013" name="lodakina03">
+      <position x="851.047" y="-1403.58" z="119.664" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6014" name="lodakina04">
+      <position x="627.768" y="-877.659" z="76.778" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6015" name="lodakina05">
+      <position x="643.923" y="-1116.63" z="118.48" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6016" name="lodakina06">
+      <position x="645.643" y="-1425.89" z="92.86" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6017" name="lodakina07">
+      <position x="462.916" y="-881.026" z="41.399" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6018" name="lodakina08">
+      <position x="519.799" y="-1116.27" z="76.44" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6019" name="lodakina09">
+      <position x="390.964" y="-1120.05" z="60.804" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6020" name="lodakina10">
+      <position x="524.366" y="-1366.79" z="84.883" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+   <item model="6021" name="lodakina11">
+      <position x="393.184" y="-1375.16" z="67.559" />
+      <rotation format="axisangle" x="0" y="0" z="0.707106312094" angle="0.707107250279" />
+   </item>
+</itemlist>

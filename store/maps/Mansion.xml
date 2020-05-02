@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="ASCII"?>
+<itemlist> 
+     <item model="3020" name="piscine_trampoline1">
+          <position x="-298.465" y="-594.361" z="12.121"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107"/>
+     </item> 
+     <item model="3020" name="piscine_trampoline2">
+          <position x="-307.763" y="-568.249" z="12.121"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.707107" angle="-0.707107"/>
+     </item> 
+     <item model="574" name="piscine_lounge">
+          <position x="-302.35" y="-596.77" z="12.0817"/>
+          <rotation format="axisangle" x="0" y="0" z="0.987688" angle="-0.156435"/>
+     </item> 
+     <item model="574" name="piscine_lounge">
+          <position x="-304.617" y="-596.712" z="12.0817"/>
+          <rotation format="axisangle" x="0" y="0" z="0.987688" angle="-0.156435"/>
+     </item> 
+     <item model="574" name="piscine_lounge">
+          <position x="-306.985" y="-596.62" z="12.0817"/>
+          <rotation format="axisangle" x="0" y="0" z="0.987688" angle="-0.156435"/>
+     </item> 
+     <item model="574" name="piscine_lounge2">
+          <position x="-303.599" y="-566.029" z="12.121"/>
+          <rotation format="axisangle" x="0" y="0" z="0.156434" angle="0.987688"/>
+     </item> 
+     <item model="574" name="piscine_lounge2">
+          <position x="-300.893" y="-566.074" z="12.121"/>
+          <rotation format="axisangle" x="0" y="0" z="0.156434" angle="0.987688"/>
+     </item> 
+     <item model="574" name="piscine_lounge2">
+          <position x="-298.287" y="-566.102" z="12.121"/>
+          <rotation format="axisangle" x="0" y="0" z="0.156434" angle="0.987688"/>
+     </item> 
+     <item model="526" name="piscine_beachball">
+          <position x="-301.502" y="-581.015" z="11.6178"/>
+          <rotation format="axisangle" x="0" y="0.422618" z="0" angle="0.906308"/>
+     </item> 
+     <item model="526" name="piscine_beachball">
+          <position x="-304.872" y="-586.182" z="11.6178"/>
+          <rotation format="axisangle" x="0" y="-0.139173" z="0" angle="0.990268"/>
+     </item> 
+     <item model="2382" name="sea_cranes">
+          <position x="-224.596" y="-572.363" z="17.5971"/>
+          <rotation format="axisangle" x="0" y="0" z="0.140901" angle="0.990024"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-264.932" y="-578.73" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-264.898" y="-585.462" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-239.359" y="-585.436" z="12.9209"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-239.361" y="-578.729" z="12.9209"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-234.613" y="-598.601" z="9.95361"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-230.097" y="-587.729" z="9.95361"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-230.083" y="-565.232" z="9.95361"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-235.778" y="-548.698" z="9.95361"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-242.24" y="-547.112" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-264.012" y="-547.103" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-263.923" y="-617.123" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-242.228" y="-617.099" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="346" name="sea_box">
+          <position x="-237.628" y="-569.663" z="9.77046"/>
+          <rotation format="axisangle" x="0.00174533" y="0" z="0" angle="0.999998"/>
+     </item> 
+     <item model="346" name="sea_box">
+          <position x="-238.005" y="-568.452" z="9.77046"/>
+          <rotation format="axisangle" x="0.00174533" y="0" z="0" angle="0.999998"/>
+     </item> 
+     <item model="344" name="sea_plank">
+          <position x="-238.424" y="-566.086" z="10.6007"/>
+          <rotation format="axisangle" x="0.00144694" y="-0.559192" z="0.000975975" angle="0.829036"/>
+     </item> 
+     <item model="349" name="sea_box">
+          <position x="-237.87" y="-563.513" z="9.89127"/>
+          <rotation format="axisangle" x="0.00174533" y="0" z="0" angle="0.999998"/>
+     </item> 
+     <item model="340" name="piscine_bollard">
+          <position x="-296.791" y="-554.224" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="piscine_bollard">
+          <position x="-308.582" y="-554.221" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="piscine_bollard">
+          <position x="-296.708" y="-608.401" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="piscine_bollard">
+          <position x="-308.577" y="-608.416" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="468" name="piscine_veg">
+          <position x="-289.335" y="-569.447" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="468" name="piscine_veg">
+          <position x="-289.337" y="-594.834" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="piscine_table">
+          <position x="-281.607" y="-565.707" z="12.2513"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="piscine_table">
+          <position x="-284.047" y="-572.1" z="12.2513"/>
+          <rotation format="axisangle" x="0" y="0" z="0.920505" angle="0.390731"/>
+     </item> 
+     <item model="470" name="piscine_table_umbrella">
+          <position x="-281.64" y="-565.761" z="13.1402"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="470" name="piscine_table_umbrella">
+          <position x="-284.055" y="-572.088" z="13.1402"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="piscine_table">
+          <position x="-284.211" y="-591.429" z="12.2513"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="piscine_table">
+          <position x="-282.461" y="-598.171" z="12.2513"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.669131" angle="0.743145"/>
+     </item> 
+     <item model="470" name="piscine_table_umbrella">
+          <position x="-284.238" y="-591.47" z="13.1402"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="470" name="piscine_table_umbrella">
+          <position x="-282.443" y="-598.224" z="13.1402"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="4680" name="piscine_SPRUNK">
+          <position x="-286.93" y="-561.228" z="12.763"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107"/>
+     </item> 
+     <item model="334" name="piscine_SODA">
+          <position x="-286.929" y="-602.849" z="11.7474"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="358" name="piscine_lamp">
+          <position x="-279.263" y="-571.037" z="14.3999"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="358" name="piscine_lamp">
+          <position x="-279.505" y="-593.316" z="14.3999"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-259.784" y="-578.736" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-255.396" y="-578.734" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-251.003" y="-578.732" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-246.592" y="-578.727" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-259.651" y="-585.395" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-255.25" y="-585.397" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-250.85" y="-585.399" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-246.464" y="-585.403" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-256.899" y="-612.468" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-246.726" y="-612.442" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-246.738" y="-553.147" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-256.535" y="-553.221" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="2225" name="land_house">
+          <position x="-262.309" y="-641.898" z="12.219"/>
+          <rotation format="axisangle" x="0" y="0" z="0.920505" angle="0.390731"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-352.773" y="-553.042" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-370.888" y="-553.087" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-404.596" y="-553.048" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-388.809" y="-553.081" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-342.799" y="-559.57" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-414.214" y="-558.108" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-324.773" y="-571.001" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-324.758" y="-576.417" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-342.741" y="-587.88" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-352.802" y="-594.531" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-404.495" y="-594.462" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-387.659" y="-594.446" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-369.845" y="-594.482" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-414.106" y="-589.456" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-432.474" y="-576.51" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-432.472" y="-570.972" z="30.3904"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-352.773" y="-553.042" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-404.596" y="-553.048" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-342.799" y="-559.57" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-414.214" y="-558.108" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-324.773" y="-571.001" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-324.758" y="-576.417" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-342.741" y="-587.88" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-352.802" y="-594.531" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-404.495" y="-594.462" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-387.659" y="-594.446" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-369.845" y="-594.482" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-414.106" y="-589.456" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-432.474" y="-576.51" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3437" name="neon_pink">
+          <position x="-432.472" y="-570.972" z="23.3585"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-324.133" y="-570.853" z="41.0059"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3436" name="neon_blue">
+          <position x="-324.186" y="-576.724" z="41.0059"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-357.754" y="-544.803" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-363.632" y="-544.803" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-375.492" y="-544.813" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-381.588" y="-544.815" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-393.593" y="-544.821" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-399.401" y="-544.822" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-418.924" y="-549.916" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-338.134" y="-551.401" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-343.635" y="-546.657" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-333.595" y="-556.659" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-413.573" y="-546.637" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-423.199" y="-555.175" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-351.988" y="-544.301" z="24.7566"/>
+          <rotation format="axisangle" x="0.5" y="0.5" z="0.5" angle="0.5"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-345.983" y="-544.324" z="24.7566"/>
+          <rotation format="axisangle" x="0.5" y="0.5" z="0.5" angle="0.5"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-369.595" y="-544.154" z="23.7912"/>
+          <rotation format="axisangle" x="0.482246" y="0.482246" z="0.517145" angle="0.517145"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-387.64" y="-544.16" z="23.7912"/>
+          <rotation format="axisangle" x="0.482246" y="0.482246" z="0.517145" angle="0.517145"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-405.529" y="-544.334" z="24.7566"/>
+          <rotation format="axisangle" x="0.5" y="0.5" z="0.5" angle="0.5"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-411.351" y="-544.298" z="24.7566"/>
+          <rotation format="axisangle" x="0.5" y="0.5" z="0.5" angle="0.5"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-357.871" y="-545.47" z="17.4038"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="455" name="build_veg">
+          <position x="-351.561" y="-545.133" z="17.7065"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-363.249" y="-545.152" z="17.5951"/>
+          <rotation format="axisangle" x="0" y="0" z="0.374607" angle="0.927184"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-364.458" y="-545.156" z="17.5951"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="455" name="build_veg">
+          <position x="-352.791" y="-545.16" z="17.7065"/>
+          <rotation format="axisangle" x="0" y="0" z="0.34202" angle="0.939693"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-399.454" y="-545.416" z="17.4038"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-392.875" y="-545.272" z="17.5951"/>
+          <rotation format="axisangle" x="0" y="0" z="0.374607" angle="0.927184"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-394.056" y="-545.286" z="17.5951"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.0348995" angle="0.999391"/>
+     </item> 
+     <item model="455" name="build_veg">
+          <position x="-406.057" y="-545.227" z="17.7065"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="455" name="build_veg">
+          <position x="-404.779" y="-545.152" z="17.7065"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.422618" angle="0.906308"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-423.862" y="-555.27" z="22.0399"/>
+          <rotation format="axisangle" x="0" y="0.706246" z="0" angle="0.707967"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-418.729" y="-549.176" z="22.122"/>
+          <rotation format="axisangle" x="0.482246" y="0.482246" z="0.517145" angle="0.517145"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-338.04" y="-550.758" z="22.122"/>
+          <rotation format="axisangle" x="0.482246" y="0.482246" z="0.517145" angle="0.517145"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-333.047" y="-556.703" z="22.122"/>
+          <rotation format="axisangle" x="0.694553" y="-0.0125541" z="0.71923" angle="0.0121235"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-357.782" y="-602.557" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-363.743" y="-602.615" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-375.585" y="-602.547" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-381.7" y="-602.585" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-393.59" y="-602.615" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-399.496" y="-602.583" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-418.88" y="-597.52" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-338.09" y="-596.006" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-333.694" y="-590.867" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-343.686" y="-600.823" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-413.502" y="-600.915" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-423.171" y="-592.206" z="24.2726"/>
+          <rotation format="axisangle" x="0" y="0" z="1" angle="0"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-357.792" y="-602.26" z="17.3862"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-399.419" y="-602.158" z="17.3862"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-405.281" y="-602.17" z="17.3862"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-394.055" y="-602.126" z="17.6025"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-364.366" y="-602.247" z="17.6025"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="465" name="build_veg">
+          <position x="-351.924" y="-602.285" z="17.3862"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-363" y="-602.272" z="17.6025"/>
+          <rotation format="axisangle" x="0" y="0" z="0.951057" angle="0.309017"/>
+     </item> 
+     <item model="456" name="build_veg">
+          <position x="-392.928" y="-602.131" z="17.6025"/>
+          <rotation format="axisangle" x="0" y="0" z="0.951057" angle="0.309017"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-387.727" y="-603.174" z="24.7548"/>
+          <rotation format="axisangle" x="-0.482246" y="0.482246" z="-0.517145" angle="0.517145"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-369.616" y="-603.153" z="24.7767"/>
+          <rotation format="axisangle" x="-0.482246" y="0.482246" z="-0.517145" angle="0.517145"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-418.885" y="-598.085" z="23.0741"/>
+          <rotation format="axisangle" x="-0.482246" y="0.482246" z="-0.517145" angle="0.517145"/>
+     </item> 
+     <item model="460" name="build_veg_dropping">
+          <position x="-338.109" y="-596.574" z="23.0741"/>
+          <rotation format="axisangle" x="-0.482246" y="0.482246" z="-0.517145" angle="0.517145"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-405.316" y="-603.303" z="23.7719"/>
+          <rotation format="axisangle" x="-0.491198" y="0.491198" z="-0.50865" angle="0.50865"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-411.263" y="-603.318" z="23.7651"/>
+          <rotation format="axisangle" x="-0.491198" y="0.491198" z="-0.50865" angle="0.50865"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-352.024" y="-603.303" z="23.7663"/>
+          <rotation format="axisangle" x="-0.491198" y="0.491198" z="-0.50865" angle="0.50865"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-346.025" y="-603.316" z="23.7626"/>
+          <rotation format="axisangle" x="-0.491198" y="0.491198" z="-0.50865" angle="0.50865"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-423.911" y="-592.29" z="22.1005"/>
+          <rotation format="axisangle" x="0.000875648" y="0.681183" z="-0.0229257" angle="0.731754"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-414.24" y="-600.901" z="22.0981"/>
+          <rotation format="axisangle" x="0.000875648" y="0.681183" z="-0.0229257" angle="0.731754"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-343.058" y="-600.811" z="22.0549"/>
+          <rotation format="axisangle" x="-0.707107" y="0" z="-0.707107" angle="0"/>
+     </item> 
+     <item model="461" name="build_veg_dropping">
+          <position x="-333.03" y="-590.84" z="22.0549"/>
+          <rotation format="axisangle" x="-0.707107" y="0" z="-0.707107" angle="0"/>
+     </item> 
+     <item model="468" name="build_veg">
+          <position x="-371.401" y="-553.504" z="19.2084"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="468" name="build_veg">
+          <position x="-385.706" y="-553.471" z="19.2084"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-368.882" y="-521.889" z="12.7898"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-388.372" y="-521.916" z="12.7898"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-391.364" y="-533.597" z="17.1957"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-365.889" y="-533.59" z="17.1957"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-343.36" y="-539.732" z="17.1957"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-413.879" y="-539.739" z="17.1957"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-346.886" y="-529.592" z="15.1784"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-410.373" y="-529.582" z="15.1784"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="build_glass">
+          <position x="-387.429" y="-614.117" z="15.338"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="build_glass">
+          <position x="-383.049" y="-614.119" z="16.1477"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="build_glass">
+          <position x="-378.668" y="-614.119" z="15.766"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="build_glass">
+          <position x="-374.268" y="-614.12" z="16.1477"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="build_glass">
+          <position x="-369.873" y="-614.121" z="15.338"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="build_table">
+          <position x="-383.199" y="-610.66" z="16.6989"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="471" name="build_table">
+          <position x="-374.927" y="-610.668" z="16.6989"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.71934" angle="0.694658"/>
+     </item> 
+     <item model="470" name="build_table_umbrella">
+          <position x="-374.878" y="-610.699" z="17.6089"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.71934" angle="0.694658"/>
+     </item> 
+     <item model="470" name="build_table_umbrella">
+          <position x="-383.195" y="-610.691" z="17.6089"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.71934" angle="0.694658"/>
+     </item> 
+     <item model="598" name="build_table_stuff">
+          <position x="-382.953" y="-610.887" z="17.1126"/>
+          <rotation format="axisangle" x="0" y="0" z="0.898794" angle="0.438371"/>
+     </item> 
+     <item model="598" name="build_table_stuff">
+          <position x="-374.685" y="-610.46" z="17.1126"/>
+          <rotation format="axisangle" x="0" y="0" z="0.453991" angle="0.891007"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-391.356" y="-607.759" z="17.1324"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-365.861" y="-607.737" z="17.1324"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-343.385" y="-607.716" z="17.1324"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-413.864" y="-607.758" z="17.1324"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-410.376" y="-617.892" z="15.1755"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-346.862" y="-617.905" z="15.1755"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-417.869" y="-619.395" z="12.7645"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-414.372" y="-648.908" z="12.7645"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-342.877" y="-648.898" z="12.7645"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-339.388" y="-619.382" z="12.7645"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-384.846" y="-648.894" z="9.9265"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-372.372" y="-648.913" z="9.9265"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-366.359" y="-652.886" z="8.16923"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-390.864" y="-652.893" z="8.16923"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-378.621" y="-652.89" z="10.1733"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-383.021" y="-624.037" z="9.89651"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-374.213" y="-624.041" z="9.89651"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-374.218" y="-640.104" z="9.89651"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-374.218" y="-640.104" z="9.89651"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-382.993" y="-640.109" z="9.89651"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-400.88" y="-631.612" z="12.4357"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-356.349" y="-631.612" z="12.4357"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-356.363" y="-614.392" z="12.804"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="build_bollard">
+          <position x="-400.866" y="-614.385" z="12.804"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="2887" name="build_fountain">
+          <position x="-378.598" y="-631.628" z="10.194"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="3072" name="build_fountain_water">
+          <position x="-378.598" y="-631.628" z="10.194"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-252.843" y="-630.563" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-252.882" y="-648.877" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-272.957" y="-648.895" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-290.75" y="-648.907" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-307.3" y="-648.893" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-322.099" y="-648.897" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-338.761" y="-648.904" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-418.404" y="-648.905" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-504.36" y="-648.874" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-504.407" y="-630.482" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-487.549" y="-648.922" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-471.268" y="-648.9" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-454.552" y="-648.902" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-436.064" y="-648.887" z="9.97658"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="449" name="sea_palm">
+          <position x="-336.459" y="-647.35" z="8.66915"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="449" name="sea_palm">
+          <position x="-302.202" y="-647.504" z="8.66915"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="474" name="sea_palm">
+          <position x="-330.593" y="-646.872" z="9.41808"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="474" name="sea_palm">
+          <position x="-501.679" y="-626.17" z="9.41808"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="449" name="sea_palm">
+          <position x="-465.63" y="-615.04" z="8.66915"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-449.663" y="-608.416" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-458.391" y="-608.4" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-493.337" y="-617.184" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-514.94" y="-617.115" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-514.983" y="-547.061" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-493.256" y="-547.092" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-458.03" y="-554.184" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-449.631" y="-554.163" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-494.403" y="-578.683" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-494.402" y="-585.457" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-513.846" y="-578.7" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="340" name="sea_bollard">
+          <position x="-513.852" y="-585.45" z="12.4215"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-498.393" y="-613.413" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-507.148" y="-613.435" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-507.442" y="-552.92" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="454" name="sea_veg">
+          <position x="-499.047" y="-553.043" z="11.7962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.258819" angle="0.965926"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-497.612" y="-585.429" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-502.014" y="-585.428" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-506.415" y="-585.431" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-510.805" y="-585.432" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-497.636" y="-578.722" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-502.057" y="-578.723" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-506.463" y="-578.721" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-510.848" y="-578.723" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.888" y="-581.986" z="12.3728"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.889" y="-586.363" z="12.0476"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.89" y="-590.774" z="11.6558"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.888" y="-595.16" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.887" y="-577.639" z="12.0476"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.886" y="-573.243" z="11.6558"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="577" name="sea_glass">
+          <position x="-517.883" y="-568.85" z="11.3776"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="526" name="piscine2_ball">
+          <position x="-503.58" y="-568.141" z="11.668"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="526" name="piscine2_ball">
+          <position x="-508.503" y="-564.808" z="11.668"/>
+          <rotation format="axisangle" x="0.223955" y="-0.553702" z="-0.566743" angle="0.567504"/>
+     </item> 
+     <item model="526" name="piscine2_ball">
+          <position x="-501.784" y="-566.064" z="11.668"/>
+          <rotation format="axisangle" x="-0.184353" y="-0.568116" z="-0.798935" angle="0.0704381"/>
+     </item> 
+     <item model="567" name="sea_volley">
+          <position x="-451.192" y="-626.483" z="7.81041"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107"/>
+     </item> 
+     <item model="526" name="sea_volley_ball">
+          <position x="-447.25" y="-627.873" z="9.61716"/>
+          <rotation format="axisangle" x="0.0806152" y="0.349183" z="-0.21001" angle="0.909653"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-506.716" y="-612.947" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.984808" angle="0.173648"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-504.521" y="-613.057" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.984808" angle="0.173648"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-502.297" y="-613.077" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.984808" angle="0.173648"/>
+     </item> 
+     <item model="3020" name="piscine2_trampoline">
+          <position x="-496.871" y="-610.671" z="12.21"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107"/>
+     </item> 
+     <item model="3020" name="piscine2_trampoline">
+          <position x="-511.455" y="-553.446" z="12.1962"/>
+          <rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-506.613" y="-550.809" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.173648" angle="-0.984808"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-504.509" y="-550.912" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.173648" angle="-0.984808"/>
+     </item> 
+     <item model="574" name="piscine2_lounge">
+          <position x="-502.489" y="-550.997" z="12.1261"/>
+          <rotation format="axisangle" x="0" y="0" z="-0.173648" angle="-0.984808"/>
+     </item> 
+     <item model="593" name="piscine2_lounge_stuff">
+          <position x="-505.008" y="-550.573" z="11.8706"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="595" name="piscine2_lounge_stuff">
+          <position x="-502.953" y="-550.665" z="11.94"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="597" name="piscine2_lounge_stuff">
+          <position x="-503" y="-550.484" z="12.0002"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="567" name="piscine2_volley">
+          <position x="-501.121" y="-596.854" z="10.9262"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="567" name="piscine2_volley">
+          <position x="-501.121" y="-596.854" z="10.9262"/>
+          <rotation format="axisangle" x="-1" y="0" z="0" angle="0"/>
+     </item> 
+     <item model="526" name="piscine2_ball">
+          <position x="-502.238" y="-599.778" z="11.668"/>
+          <rotation format="axisangle" x="0.109524" y="0.358238" z="0.271082" angle="0.88667"/>
+     </item> 
+     <item model="2520" name="build_doors">
+          <position x="-378.542" y="-554.066" z="21.9473"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="2462" name="mna_table_scrfce">
+          <position x="-378.403" y="-593.475" z="26.0213"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="2479" name="man_scar_curtains">
+          <position x="-378.549" y="-598.825" z="27.5803"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+     <item model="2483" name="man_f_chandelier">
+          <position x="-378.375" y="-593.904" z="30.5341"/>
+          <rotation format="axisangle" x="0" y="0" z="0" angle="1"/>
+     </item> 
+</itemlist>

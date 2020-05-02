@@ -1,0 +1,155 @@
+<==PRE-ALPHA STAGE==>
+
+
+1st update: NPC system (0.0.1)
+
+2nd update: Register + Login system (0.0.2)
+
+3rd update: Original map (0.0.3)
+
+4th update : new Prison (0.0.4)
+
+5th update: Original Pickups (0.0.5)
+
+6th update: Property pickups (0.0.6)
+
+7th update: Robbery system + Boat smuggling (0.1.0)
+
+8th update: Property system (0.2.0)
+
+9th update: Car system (0.3.0)
+
+10th update: Cop job + Arrest system (0.4.0)
+
+11th update: Car chase system + Spikes (0.5.0)
+
+12th update: Medic job (0.5.1)
+
+13th update: Fireman job + Fire system (0.6)
+
+14th update: Terrorist job (0.6.1)
+
+15th update: Trucker job (0.6.2)
+
+16th upadte: Bank transporter job(0.6.3)
+
+17th update: Dustman job (0.6.4)
+
+18th update: Taxi job (0.6.5)
+
+19th update: Bodyguard job (0.6.6)
+
+20th update: Mechanic job (0.6.7)
+
+21th update: Investigator job (0.6.8)
+
+22th update: Drug dealer job (0.6.9)
+
+23th update: Save job on quit + Job skin if default (0.7.0)
+
+24th update: Player Skin system (0.8.0)
+
+25th update: Hunger system + Fuel system(0.9.0)
+
+26th update: Basic tuning system (0.9.5)
+
+27th update: GUI Player stats + player stats+ other cmds (/afk , /on , etc)(1.0.0)
+
+
+<=ALPHA=>
+
+
+28th update: Gang system (0.1.0)
+
+29th update: /dropinventory + /dropwep + Dropping all weapons on death (0.2)
+
+30th update: Admin cmds (0.2.1)
+
+31th update: Admin levels : 'Chat Moderator', 'Server Moderator', 'Helper' ,'Administrator', 'Developer'(0.2.2)
+
+32th update: Specific roles: 'Mapper', 'Scripter' , 'Tester' (0.2.3)
+
+33th update: Admin GUI (0.2.4)
+
+34th update: Special roles: 'VIP' ,'VIP+'
+
+35th update: Airplane transport (0.2.5)
+
+36th update: Buy wep system (0.3.0)
+
+37th update: Vehicle GUI stats (0.4.0)
+
+38th update: Weapon custumisation system (0.5.0)
+
+39th update: Advanced car custumisation (+2 parts for each category)  + Racing system (+3 races) (0.8)
+
+40th update: Radios (0.8.1) 
+
+41th update: Box event (0.8.2)
+
+42th update: GG event (0.8.3)
+
+43th update: Kill-a-player event (0.8.4)
+
+44th update: Battle royale update (0.8.5)
+
+45th update: Lottery system (0.8.6)
+
+46th update: Quiz event (0.8.7)
+
+47th update: Juggernaut event + Juggernaut armour (0.8.8)
+
+48th update: Discord bot (0.9)
+
+49th update: Interiour system (1.0)
+
+<=pre-BETA=>
+
+50th update: Prostitute job (0.1.0)
+
+51th update: Custom skins. (0.2.0) 
+
+52th update: Tutorial (0.3.0)
+
+53th update: steal some brasil shite (0.3.1)
+
+54th update: Assasin job (0.3.2) 
+
+55th update: Help messages (0.4) 
+
+55th update: Cases (0.5)
+
+56th updated: Pre-parked cars, User 'RCNR-Server' to buy service-vehicles (0.6) 
+
+64th update: House Rob system (0.7) 
+
+65th update: NPCs on map (0.8) <--
+
+66th update: /account , and cmds, fix cmds possible errors (0.9)
+
+67th update: Garage system (1.0)
+
+<= Beta =>
+
+68th update: Interiour custumisation system (0.1)
+
+69th update: New car tuning interface (0.2)
+
+70th update: Romania Map (0.3)
+
+71th update: Romania Gypsy Jungle (0.4)
+
+72th update: NPCS on custom map + Airport system (0.5)
+
+74th update: /gps (0.6)
+
+75th update: ??? (0.7)
+
+76th update: ??? (0.8)
+
+77th update: ??? (0.9)
+
+78th update: ???(1.0)
+
+78th update:
+bulid website (gamma 1.0) => official release

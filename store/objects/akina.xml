@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ASCII"?>
+<objectlist>
+   <object id="0">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina01.col" />
+      <model path="akina01.dff" distance="299" />
+   </object>
+   <object id="1">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina02.col" />
+      <model path="akina02.dff" distance="299" />
+   </object>
+   <object id="2">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina03.col" />
+      <model path="akina03.dff" distance="299" />
+   </object>
+   <object id="3">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina04.col" />
+      <model path="akina04.dff" distance="299" />
+   </object>
+   <object id="4">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina05.col" />
+      <model path="akina05.dff" distance="299" />
+   </object>
+   <object id="5">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina06.col" />
+      <model path="akina06.dff" distance="299" />
+   </object>
+   <object id="6">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina07.col" />
+      <model path="akina07.dff" distance="299" />
+   </object>
+   <object id="7">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina08.col" />
+      <model path="akina08.dff" distance="299" />
+   </object>
+   <object id="8">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina09.col" />
+      <model path="akina09.dff" distance="299" />
+   </object>
+   <object id="9">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina10.col" />
+      <model path="akina10.dff" distance="299" />
+   </object>
+   <object id="10">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision path="akina11.col" />
+      <model path="akina11.dff" distance="299" />
+   </object>
+   <object id="11">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina01.dff" distance="20000" />
+   </object>
+   <object id="12">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina02.dff" distance="20000" />
+   </object>
+   <object id="13">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina03.dff" distance="20000" />
+   </object>
+   <object id="14">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina04.dff" distance="20000" />
+   </object>
+   <object id="15">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina05.dff" distance="20000" />
+   </object>
+   <object id="16">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina06.dff" distance="20000" />
+   </object>
+   <object id="17">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina07.dff" distance="20000" />
+   </object>
+   <object id="18">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina08.dff" distance="20000" />
+   </object>
+   <object id="19">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina09.dff" distance="20000" />
+   </object>
+   <object id="20">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina10.dff" distance="20000" />
+   </object>
+   <object id="21">
+      <flags value="0" />
+      <texture path="akina.txd" />
+      <collision type="none" />   
+      <model path="LODakina11.dff" distance="20000" />
+   </object>
+</objectlist>
