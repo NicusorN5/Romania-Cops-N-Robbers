@@ -1,8 +1,7 @@
 # Romania-Cops-N-Robbers
 
-UPDATE: Server development is active again, except the future updates will not be avalable here.
+Just some really buggy roleplay server that can server as a template for other VC:MP roleplay servers.
 
-My main VC:MP project. Still has some bugs there and there, and they are going to get fixed.
+Be aware this is using INIParser, and you'll have to convert this yourself to MySQL/SQLite.
 
-I want to thank the VC:MP community for properly introducing me to programming 5 years 
-ago.
+Anyway, who cares? VC:MP is not really played anymore.
