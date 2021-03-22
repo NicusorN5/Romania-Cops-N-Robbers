@@ -123,9 +123,9 @@
 
 64th update: House Rob system (0.7) 
 
-65th update: NPCs on map (0.8) <--
+65th update: NPCs on map (0.8) 
 
-66th update: /account , and cmds, fix cmds possible errors (0.9)
+66th update: /account , and cmds, fix cmds possible errors (0.9) <--
 
 67th update: Garage system (1.0)
 

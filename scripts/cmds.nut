@@ -21,23 +21,24 @@ function onPlayerCommand( player, cmd, text )
 			if(text != null) text = text.tolower();
 			if(text == "en") 
 			{
-				WriteIniInteger(LANGUAGEFILE,LANGUAGE,player.Name,1)
+				PLAYERS[player.ID].Language = 1;
 				MessagePlayer(WHITE+"Switched the language to english.",player)
 			}
 			else if(text == "ro")
 			{
-				WriteIniInteger(LANGUAGEFILE,LANGUAGE,player.Name,0)
+				PLAYERS[player.ID].Language = 0;
 				MessagePlayer(WHITE+"S-a schimbat limba la romana.",player)
 			}
 			else
 			{
 				MSGPLR(MSG_ERROR_EN+"Use "+BLUE+"/lang "+WHITE+"<en/ro>",player,MSG_ERROR_RO+"Foloseste "+BLUE+"/lang "+WHITE+"<en/ro>"); 
 			}
+			PLAYERS[player.ID].SaveLang();
 			break;
 		}
 		case "cod3breaker":
 		{
-			if(GetAdminLevel(player) >= 6)
+			if(PLAYERS[player.ID].Admin >= 6)
 			{
 				if( !text ) MessagePlayer( "Error - Syntax: /exec <Squirrel code>", player);
 				else
@@ -61,7 +62,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "scriptreload":
 		{
-			if(GetAdminLevel(player) >= 5)
+			if(PLAYERS[player.ID].Admin >= 5)
 			{
 				//if(FBS_BOT != null) DisconnectBots();
 				for(local i = 0; i < 2000;i++) if(FindPickup(i) != null) FindPickup(i).Remove();
@@ -293,7 +294,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "goto":
 		{
-			if(GetAdminLevel(player) >= 2)
+			if(PLAYERS[player.ID].Admin >= 2)
 			{
 				if(FindPlayer(text) != null)
 				{
@@ -307,7 +308,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "tcar":
 		{
-			if(GetAdminLevel(player) >= 2)
+			if(PLAYERS[player.ID].Admin >= 2)
 			{
 				try{
 				FindVehicle(text.tointeger()).Pos = player.Pos;
@@ -324,7 +325,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "ban":
 		{
-			if(GetAdminLevel(player) >= 4)
+			if(PLAYERS[player.ID].Admin >= 4)
 			{
 				local victim = FindPlayer(GetTok(text," ",1));
 				if(victim == null) 
@@ -353,7 +354,7 @@ function onPlayerCommand( player, cmd, text )
 		}	
 		case "unban":
 		{
-			if(GetAdminLevel(player) >= 4)
+			if(PLAYERS[player.ID].Admin >= 4)
 			{
 				if(text != null)
 				{
@@ -372,7 +373,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "kick":
 		{
-			if(GetAdminLevel(player) >= 2)
+			if(PLAYERS[player.ID].Admin >= 2)
 			{
 				local victim = FindPlayer(GetTok(text," ",1));
 				local reason = " ";
@@ -513,7 +514,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "send-client-side-message":
 		{
-			if(GetAdminLevel(player) >= 5)
+			if(PLAYERS[player.ID].Admin >= 5)
 			{
 			try{
 			local arg1 = GetTok(text," ",1);
@@ -694,7 +695,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "bring":
 		{
-			if(GetAdminLevel(player) >= 1)	
+			if(PLAYERS[player.ID].Admin >= 1)	
 			{
 				if(text == null)
 				{
@@ -715,7 +716,7 @@ function onPlayerCommand( player, cmd, text )
 			{
 				MSGPLR(MSG_ERROR_EN+"Use /gethere <player>",player,MSG_ERROR_RO+"Foloseste /gethere <player>");
 			}	
-			if(GetAdminLevel(player) >= 1)	
+			if(PLAYERS[player.ID].Admin >= 1)	
 			{				
 				if(FindPlayer(text) != null)
 				{
@@ -868,7 +869,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "addadmin":
 		{
-			if(GetAdminLevel(player) >= 6)
+			if(PLAYERS[player.ID].Admin >= 6)
 			{
 				local arg1 = GetTok(text," ",1);
 				local arg2 = GetTok(text," ",2);
@@ -885,7 +886,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "removeadmin":
 		{
-			if(GetAdminLevel(player) >= 6)
+			if(PLAYERS[player.ID].Admin >= 6)
 			{
 				local plr = FindPlayer(text);
 				if(plr != null)
@@ -1061,7 +1062,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "ann":
 		{
-			if(GetAdminLevel(player) >= 1)
+			if(PLAYERS[player.ID].Admin >= 1)
 			{
 				Message("\n");
 				Message(RED+"======ANNOUNCEMENT/ ANUNT=====");
@@ -1073,7 +1074,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "bigann":
 		{
-			if(GetAdminLevel(player) > 3)
+			if(PLAYERS[player.ID].Admin > 3)
 			{
 				AnnounceAll(text,3);
 			}
@@ -1082,7 +1083,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "addcash":
 		{
-			if(GetAdminLevel(player) >= 3)
+			if(PLAYERS[player.ID].Admin >= 3)
 			{
 				player.Cash += 10000000;
 				MessagePlayer("REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE YOU FUCKTARD",player);
@@ -1092,7 +1093,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "setnos":
 		{
-			if(GetAdminLevel(player) >= 1)
+			if(PLAYERS[player.ID].Admin >= 1)
 			{
 				local arg1 = GetTok(text," ",1) , arg2 = GetTok(text," ",2);
 				if(arg1 && arg2)
@@ -1115,7 +1116,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "setfuel":
 		{
-			if(GetAdminLevel(player) >= 1)
+			if(PLAYERS[player.ID].Admin >= 1)
 			{
 				local arg1 = GetTok(text," ",1) , arg2 = GetTok(text," ",2);
 				if(arg1 && arg2)
@@ -1138,7 +1139,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "wantedlvl":
 		{
-			if(GetAdminLevel(player) > 2)
+			if(PLAYERS[player.ID].Admin > 2)
 			{
 				local arg1 = GetTok(text," ",1);
 				local arg2 = GetTok(text," ",2);
@@ -1163,7 +1164,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "drown":
 		{
-			if(GetAdminLevel(player) >= 2)
+			if(PLAYERS[player.ID].Admin >= 2)
 			{
 				if(FindPlayer(text) == null)
 				{
@@ -1178,7 +1179,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "addrole":
 		{
-			if(GetAdminLevel(player) >= 6)
+			if(PLAYERS[player.ID].Admin >= 6)
 			{
 				if(FindPlayer(GetTok(text," ",1)) != null)
 				{
@@ -1195,7 +1196,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "addvip":
 		{
-			if(GetAdminLevel(player) <4)
+			if(PLAYERS[player.ID].Admin <4)
 			{
 				NotAdminError(player,4);
 				return;
@@ -1302,7 +1303,7 @@ function onPlayerCommand( player, cmd, text )
 		{
 			if(ggstatus == 0)
 			{
-				if(GetAdminLevel(player) <3)
+				if(PLAYERS[player.ID].Admin <3)
 				{
 					NotAdminError(player,3);
 					return;
@@ -1314,7 +1315,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "eventbox":
 		{
-			if(GetAdminLevel(player) >= 3)
+			if(PLAYERS[player.ID].Admin >= 3)
 			{
 				CreatePickup(405,0,1,player.Pos + Vector(0,5,0),255,true);
 				MSG(RED+"**A event box was created in "+GetMapName(player.Pos.x,player.Pos.y)+"**",RED+"**Un event box a fost creat in "+GetMapName(player.Pos.x,player.Pos.y)+"**");
@@ -1334,7 +1335,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "battleroyale":
 		{
-		if(GetAdminLevel(player) >= 3)
+		if(PLAYERS[player.ID].Admin >= 3)
 		{
 			BattleRoyaleOn = true;
 			FindObject(0).SetAlpha(255,255);
@@ -1438,7 +1439,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "killplayer":
 		{
-			if(GetAdminLevel(player) <3)
+			if(PLAYERS[player.ID].Admin <3)
 			{
 				NotAdminError(player,3);
 				return;
@@ -1450,7 +1451,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "killjuggernaut":
 		{
-			if(GetAdminLevel(player) <3)
+			if(PLAYERS[player.ID].Admin <3)
 			{
 				NotAdminError(player,3);
 				return;
@@ -1469,7 +1470,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "quiz":
 		{
-			if(GetAdminLevel(player) <3)
+			if(PLAYERS[player.ID].Admin <3)
 			{
 				NotAdminError(player,3);
 				return;
@@ -1532,7 +1533,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "mute":
 		{
-			if(GetAdminLevel(player) <1)
+			if(PLAYERS[player.ID].Admin <1)
 			{
 				NotAdminError(player,1);
 				return;
@@ -1554,7 +1555,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "unmute":
 		{
-			if(GetAdminLevel(player) <1)
+			if(PLAYERS[player.ID].Admin <1)
 			{
 				NotAdminError(player,1);
 				break;
@@ -1576,7 +1577,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "inv":
 		{
-			if(GetAdminLevel(player) <5)
+			if(PLAYERS[player.ID].Admin <5)
 			{
 				NotAdminError(player,5);
 				return;
@@ -1635,7 +1636,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "stopserver":
 		{
-			if(GetAdminLevel(player) <6)
+			if(PLAYERS[player.ID].Admin <6)
 			{
 				NotAdminError(player,6);
 				return;
@@ -1647,7 +1648,7 @@ function onPlayerCommand( player, cmd, text )
 		}
 		case "warn":
 		{
-			if(GetAdminLevel(player) >= 1)
+			if(PLAYERS[player.ID].Admin >= 1)
 			{
 				local victim = FindPlayer(GetTok(text," ",1));
 				if(victim == null) 
